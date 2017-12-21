@@ -2,6 +2,10 @@ management:
   security:
     enabled: false  1
 
+security:
+  basic:
+    enabled: false
+
 logging:
   level:
     io:
